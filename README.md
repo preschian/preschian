@@ -8,10 +8,6 @@ Welcome to my GitHub profile!
 - Interested in open-source and building useful things on the web.
 - Always learning, building, and sharing cool ideas.
 
-## 📫 Connect with Me
-
-- X (Twitter): [@0xPresc](https://x.com/0xPresc)
-
 ## 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
